@@ -4,8 +4,17 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
+- 💳 My full name is Lê Trung Dức
 
 - ✍ I am a student at Hanoi University of Natural Resources and Environment - HUNRE (https://hunre.edu.vn/  ).
+
+- 📚 My major is Software Engineering
+
+- 📂 All of my projects are available at github.com/TrungDuc02
+
+- 📄 Know about my social media Facebook Instagram
+
+- 🏂 My hobby is 🎧 Music 🎥 Film 🎮 Games 💻 Coding 🚗 Travelling
 
 <br />
 
