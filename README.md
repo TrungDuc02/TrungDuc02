@@ -4,7 +4,7 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-- 💳 My full name is Lê Trung Dức
+- 💳 My full name is Lê Trung Đức
 
 - ✍ I am a student at Hanoi University of Natural Resources and Environment - HUNRE (https://hunre.edu.vn/  ).
 
